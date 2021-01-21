@@ -1,3 +1,3 @@
 # first-repo
 My first repo
-Rasagna Reddy Banda important fact
+Rasagna Reddy Banda an important fact
